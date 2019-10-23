@@ -1,6 +1,5 @@
 # Heroes of Pymoli
 ## Summary
-* A homework assignment for UC Berkeley's Data Analytics Bootcamp
 * Analysis studies a hypothetical fantasy game called "Heroes of Pymoli". The game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience
 * The following conclusions can be reached from the analysis:
   * Of the 1163 active players, the vast majority are male (84%). There also exists, a smaller, but notable proportion of female players (14%).
